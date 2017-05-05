@@ -1,7 +1,7 @@
 ---
 services: data-catalog
 platforms: dotnet
-author: 
+author: spelluru
 ---
 #Bulk import glossary terms
 
