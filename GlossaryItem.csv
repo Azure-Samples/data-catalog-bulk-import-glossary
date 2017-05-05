@@ -1,0 +1,6 @@
+ID,Name,ParentID,Definition,Description,Stakeholders
+0,HR,,Human Resources root glossary term for bulk import sample,This glossary term and the hirearchy it represents has been populated using the bulk import API sample application,user1@example.com|cf3092bd-53a1-41c3-8831-1aec571958f7;user2@example.com|c0bf23bd-beef-beef-beef-beefbad95bad
+1,Personnel,0,Personnel including full-time employees and vendors,Full description for personnel,user1@example.com|cf3092bd-53a1-41c3-8831-1aec571958f7
+2,Department,0,Departments and business units,Full description for departments,user1@example.com|cf3092bd-53a1-41c3-8831-1aec571958f7;user2@example.com|c0bf23bd-beef-beef-beef-beefbad95bad
+3,Employee,1,Full time employees,,user1@example.com|cf3092bd-53a1-41c3-8831-1aec571958f7;user2@example.com|c0bf23bd-beef-beef-beef-beefbad95bad
+4,Vendor,1,Contract employees,,user1@example.com|cf3092bd-53a1-41c3-8831-1aec571958f7
