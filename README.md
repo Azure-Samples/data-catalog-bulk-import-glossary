@@ -1,3 +1,10 @@
-# Contributing
+---
+services: data-catalog
+platforms: dotnet
+author: 
+---
+#Bulk import glossary terms
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This sample shows you how to import glossary terms from CSV files to ADC glossary.
+
+
